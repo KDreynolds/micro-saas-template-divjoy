@@ -1,15 +1,15 @@
 ## 10 Micro SaaS Businesses by 4/1/24
 
-[ ] Custom CRM for Niche Markets
-[ ] Minimalist Project Management Platform
-[ ] Minimalist Notes App
-[ ] Business Plan Generator
-[ ] Easy Appointment Scheduler
-[ ] Travel Planner
-[ ] Kanban Board
-[ ]
-[ ]
-[ ]
+- [ ] Custom CRM for Niche Markets
+- [ ] Minimalist Project Management Platform
+- [ ] Minimalist Notes App
+- [ ] Business Plan Generator
+- [ ] Easy Appointment Scheduler
+- [ ] Travel Planner
+- [ ] Kanban Board
+- [ ]
+- [ ]
+- [ ]
 
 ## 👉 Get Started
 Install dependencies
